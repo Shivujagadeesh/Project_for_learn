@@ -1,3 +1,4 @@
 Welcome to new hotel
 
 Royal care hotel
+adding bit extra data to make it easy to understang
