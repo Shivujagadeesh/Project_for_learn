@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  
 shankara
 nandi
@@ -8,3 +9,9 @@ murali
 sharma
 srini
 manju
+=======
+shiva
+sharma 
+prajju
+murali
+>>>>>>> ed3e54f8adf8efcd6269c34cada4811bf25ff8e6
